@@ -1,0 +1,6 @@
+#ifndef INTERBUS_INC_INTERBUS_H
+#define INTERBUS_INC_INTERBUS_H
+
+#include "../bus.h"
+
+#endif // INTERBUS_INC_INTERBUS_H

@@ -1,0 +1,6 @@
+#ifndef INTERBUS_INC_GOPING_H
+#define INTERBUS_INC_GOPING_H
+
+#include "../goping.h"
+
+#endif // INTERBUS_INC_GOPING_H
